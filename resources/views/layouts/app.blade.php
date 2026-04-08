@@ -64,6 +64,9 @@
             color: #2c3e50;
             margin-bottom: 1rem;
         }
+        .user-info {
+            margin-left: auto;
+        }
     </style>
 </head>
 <body>
@@ -74,7 +77,22 @@
                     <li><a href="{{ route('home') }}">Главная</a></li>
                     <li><a href="{{ route('about') }}">О нас</a></li>
                     <li><a href="{{ route('contacts') }}">Контакты</a></li>
-                    <li><a href="{{ route('signin') }}">Регистрация</a></li>
+                    
+                    @auth
+                        <li><a href="{{ route('articles.create') }}">Создать новость</a></li>
+                        <li style="margin-left: auto;">
+                            <span>{{ Auth::user()->name }}</span>
+                            <form method="POST" action="{{ route('logout') }}" style="display: inline; margin-left: 10px;">
+                                @csrf
+                                <button type="submit" style="background: none; border: none; color: white; cursor: pointer;">Выйти</button>
+                            </form>
+                        </li>
+                    @else
+                        <li style="margin-left: auto;">
+                            <a href="{{ route('login') }}">Вход</a>
+                            <a href="{{ route('register') }}" style="margin-left: 10px;">Регистрация</a>
+                        </li>
+                    @endauth
                 </ul>
             </nav>
         </div>
@@ -82,6 +100,12 @@
 
     <main>
         <div class="container">
+            @if(session('success'))
+                <div style="background: #d4edda; color: #155724; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+                    {{ session('success') }}
+                </div>
+            @endif
+            
             @yield('content')
         </div>
     </main>

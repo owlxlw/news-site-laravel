@@ -3,13 +3,13 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use App\Models\Article;
 
 class DatabaseSeeder extends Seeder
 {
     public function run(): void
     {
-        // Создаём 20 фейковых новостей
-        Article::factory(20)->create();
+        $this->call(RoleSeeder::class);
+        // Новости пока не добавляем, чтобы не было ошибки
+        // $this->call(ArticleSeeder::class);
     }
 }

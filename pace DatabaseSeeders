@@ -1,0 +1,424 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#7323
+    [34mall[39m: [
+      [34;4mApp\Models\Article[39;24m {#7330
+        [34mtitle[39m: [32m"[39m[32mEt libero laboriosam officia voluptatem perferendis.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mPraesentium quisquam ut incidunt voluptatem ipsam alias. Dolorem velit rerum unde itaque.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mNisi est libero et sit possimus non. Eveniet ea veritatis voluptas quaerat. Voluptas et deserunt maxime placeat aliquid.[39m
+          
+          [32mQuasi et ipsam et dolor consequuntur soluta dolores. Debitis repellendus excepturi ut eos fugiat voluptas. Natus voluptatem laboriosam autem suscipit. Blanditiis quia eum modi.[39m
+          
+          [32mDolore sed voluptatem ut nulla. Aliquam et non dolores sint aut. Id quos suscipit dolore aut deserunt. Libero aut commodi necessitatibus eligendi.[39m
+          
+          [32mVel qui ad eligendi et voluptates voluptates. Repudiandae quia et qui sed qui sed expedita. Praesentium delectus corporis est neque et quod autem. Quia ipsa veniam deleniti magnam sint ea.[39m
+          
+          [32mDolorem ipsum voluptatibus dolorem esse rerum quia aspernatur. A deleniti aperiam tempore sequi. Est aut ex sapiente qui.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/002255?text=news+aut[39m[32m"[39m,
+        [34mviews[39m: [35m4195[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-01-04 14:11:32[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m1[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7339
+        [34mtitle[39m: [32m"[39m[32mAut neque expedita sit ipsa repellendus libero distinctio.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mSunt officiis voluptatem quia aut. Quia eaque placeat qui praesentium similique accusamus rerum tempora. Consequatur et amet recusandae placeat velit.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mVel neque sit recusandae voluptate omnis ad et. Sed et ratione quia sunt natus illo ducimus impedit. Eos ab voluptates unde laboriosam.[39m
+          
+          [32mEt et beatae et et animi excepturi. Ipsum officia eos ab debitis nisi aliquid iste molestiae. Quo voluptate qui odio. Sapiente ipsa corrupti sit quia illum unde.[39m
+          
+          [32mTempore incidunt nihil praesentium quibusdam dolorem maxime eaque. Rerum ut qui quae. Aut qui dicta debitis quia non assumenda.[39m
+          
+          [32mIste voluptatem laudantium vel ipsum fuga quis. Illo aut esse vero ipsum. Sequi tempora sunt numquam veniam.[39m
+          
+          [32mSapiente non illum sunt est ipsa. Est cumque nemo sed quisquam. Labore est rem ipsum nesciunt dolor et nemo.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/005511?text=news+aut[39m[32m"[39m,
+        [34mviews[39m: [35m9578[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-06-14 15:40:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m2[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7328
+        [34mtitle[39m: [32m"[39m[32mNatus consectetur architecto at qui non.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEnim accusantium aut molestiae. Et consectetur nobis nulla tempore qui. Eligendi at aliquid repellendus corporis.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mEarum maiores voluptas aut cumque ab. Qui dicta illum numquam eaque vero architecto dignissimos autem. Eum quasi accusamus numquam ut eligendi sit.[39m
+          
+          [32mQui voluptas non molestiae quibusdam. Qui perferendis quod perferendis quam suscipit dolores beatae. Voluptatem amet voluptas sed dolor non dolorem. Aut officia natus illum tenetur cupiditate sit.[39m
+          
+          [32mEt consequatur ipsum laborum vitae. Voluptas aut autem voluptatem velit vel. Doloremque numquam consequatur similique accusamus odit sunt. Est hic culpa ab aut.[39m
+          
+          [32mOptio quam odit nam voluptates aut voluptas quae. Voluptas quo aspernatur laudantium excepturi corporis. Nostrum non tempora cumque sapiente suscipit quis vel.[39m
+          
+          [32mNemo veniam consequatur quia dignissimos et provident sed. Quas dolorum qui nobis dolores corporis quis. Eligendi doloremque vitae deleniti aliquam est. Perferendis voluptatibus sunt pariatur possimus velit cum ut. Soluta qui ex et omnis consequuntur non.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00ee22?text=news+quia[39m[32m"[39m,
+        [34mviews[39m: [35m3968[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-10-20 04:23:18[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m3[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7329
+        [34mtitle[39m: [32m"[39m[32mVeniam laboriosam voluptates dolor libero.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEt consequuntur fuga fugit quidem nisi nam ducimus. Sed ut ipsum molestias quidem consequuntur sed placeat sed.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mEos nihil aut in voluptatem consequatur. Consequatur eum earum ducimus aut animi. Id modi ipsum nesciunt reiciendis qui voluptas modi voluptatibus.[39m
+          
+          [32mImpedit non laudantium eum corrupti et minima. Quis placeat est voluptas quo et enim est. Nihil corrupti temporibus voluptas. Laboriosam similique provident iure dignissimos eum. Dolorum voluptate et quisquam odio est.[39m
+          
+          [32mAssumenda sit quas dolor officia. Dolorum earum minima quae aut. Asperiores exercitationem iure quia. Aperiam magnam asperiores qui.[39m
+          
+          [32mEt at minima nobis similique qui iusto. Deserunt vitae occaecati excepturi odit qui. Voluptates ex qui non iusto. Non voluptatem blanditiis accusantium rem voluptatem et officia.[39m
+          
+          [32mAutem ipsam quod est animi iure doloribus minus deleniti. Illum sit ex nemo aperiam. Iste perspiciatis voluptatem enim aspernatur nam. Voluptatem dolorem eligendi numquam maxime.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/001166?text=news+eos[39m[32m"[39m,
+        [34mviews[39m: [35m8064[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-02-10 06:26:16[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m4[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7337
+        [34mtitle[39m: [32m"[39m[32mRepudiandae excepturi qui ratione et.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mQui vel voluptates omnis quam blanditiis nihil aut. Vero voluptas totam minima qui omnis.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mAut soluta magnam dolores quis possimus minima et impedit. Possimus eius aliquam qui iste eaque quos dicta voluptas. Dolores est dolores fugiat aspernatur et nihil ipsa. Possimus tempore veritatis et ut quaerat et.[39m
+          
+          [32mRepellendus nulla quod est ut harum accusamus. In natus magni delectus sapiente itaque minus. Nostrum aliquid magni dolores consequatur ut et cumque. Inventore voluptates quibusdam eveniet.[39m
+          
+          [32mAlias aut non nobis dignissimos numquam voluptatem. Voluptatum et accusantium voluptas excepturi. Recusandae optio est cumque est saepe quaerat. Consequatur aut possimus ea sapiente.[39m
+          
+          [32mCumque aut provident nesciunt inventore error sint voluptatum. Et necessitatibus repudiandae est adipisci doloribus ut. Consequatur esse perferendis quia dolores explicabo vitae aliquid. Facilis est quas reiciendis qui et.[39m
+          
+          [32mNatus rerum iste illum autem eius fugiat. Architecto ab libero dolorem. Placeat suscipit voluptatem omnis incidunt voluptatem. Autem fuga ut omnis deserunt cum voluptate.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/007777?text=news+est[39m[32m"[39m,
+        [34mviews[39m: [35m7722[39m,
+        [34mis_published[39m: [36mfalse[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-05-24 23:33:57[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m5[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7340
+        [34mtitle[39m: [32m"[39m[32mQui quod nobis sint.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mExcepturi vel dolor blanditiis dolores quisquam. Ad earum quas ipsam sed animi quia quam.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mVoluptatem a doloremque et repellat voluptate voluptates fuga vel. Consequatur tempore molestias ipsam minus. Praesentium eos quia suscipit odio soluta assumenda rem. Maiores ab quaerat aut aspernatur et aut.[39m
+          
+          [32mAd sed eaque consequuntur eum. Voluptate eum aut qui et fugiat. Atque aperiam incidunt id aut. Praesentium accusamus autem eos sequi rerum.[39m
+          
+          [32mOmnis molestiae autem aut eum voluptatem. Voluptatum enim qui amet nobis. Est qui qui placeat. Autem aliquid unde ullam. Repellat accusamus cumque consectetur.[39m
+          
+          [32mError officia sed minima enim nihil voluptatem. Qui et perspiciatis ut. Pariatur velit ab totam excepturi quis. Omnis et dolorem error.[39m
+          
+          [32mNon voluptatem assumenda officiis non voluptatem nemo laboriosam. In architecto neque libero aliquid aliquid adipisci totam sit. Nam optio soluta sit voluptas aut voluptas. Perspiciatis nobis veritatis illo occaecati.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0044dd?text=news+tempore[39m[32m"[39m,
+        [34mviews[39m: [35m7173[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-01-20 18:41:24[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m6[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7341
+        [34mtitle[39m: [32m"[39m[32mQuia sapiente qui iste assumenda.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mCum maiores itaque inventore molestiae consequatur. Sapiente rerum doloribus facilis quia dolores aut.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mDucimus et quo amet odit quis sint dolorum ut. Omnis omnis nam quis ab. Dolores voluptatem cum et aliquam est dolores labore.[39m
+          
+          [32mSequi sed exercitationem voluptatem eius aut repellendus quis. Atque ut amet placeat voluptatibus sit. Expedita aut nostrum est est cumque dolorum.[39m
+          
+          [32mSit in nobis doloribus et error. Vitae assumenda quia asperiores rem architecto ducimus. Est ducimus labore quis quis vitae similique repellendus sed.[39m
+          
+          [32mOdio voluptas et minus modi iure aspernatur. Aut consectetur neque consequatur dignissimos culpa quia. Quas et cumque ducimus voluptas. Cumque beatae dolores modi assumenda.[39m
+          
+          [32mDolores non ipsum et doloremque perspiciatis deleniti laudantium id. Eligendi voluptas incidunt sunt. Adipisci et ut reprehenderit et harum aperiam. Debitis accusamus dolorem rerum omnis autem quis placeat.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/003388?text=news+neque[39m[32m"[39m,
+        [34mviews[39m: [35m5001[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-08-05 03:30:18[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m7[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7342
+        [34mtitle[39m: [32m"[39m[32mMaiores tempora vel et omnis iusto fugit.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mIusto sint magni pariatur et impedit voluptatibus. Rem sunt eligendi voluptates voluptatum aut.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mAb laudantium explicabo ea debitis omnis. Et ut id deserunt ducimus voluptates labore cumque. Cumque molestiae atque in repellat doloribus et.[39m
+          
+          [32mDolore nobis qui molestias eius quis soluta. Et officiis nisi quia quo voluptas quos distinctio odit. Omnis aut sint placeat omnis ducimus. Eaque eos qui quidem natus repellendus quia deserunt voluptas. Doloribus id autem temporibus et.[39m
+          
+          [32mQuia alias voluptatem repudiandae fugiat facilis doloremque. Non atque sunt deleniti beatae optio laborum nostrum consequuntur. Quidem aut amet eius ex id hic et. Perspiciatis autem voluptatem reiciendis porro.[39m
+          
+          [32mEt beatae error repellat atque et repellat optio incidunt. Sed minima qui dolores et id sed.[39m
+          
+          [32mOfficiis iste omnis corrupti fugit. Atque eius et earum voluptas neque nemo tenetur. Molestiae et ut quas quia. Accusantium est amet autem debitis inventore est ab.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/001122?text=news+adipisci[39m[32m"[39m,
+        [34mviews[39m: [35m9905[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-12-10 08:37:56[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m8[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7343
+        [34mtitle[39m: [32m"[39m[32mUt dicta excepturi eum perspiciatis.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mAtque cum unde aut dolore ullam. Iste cum perspiciatis quis unde et.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mRatione beatae minus similique eum. Autem non eum tenetur iste minima iure ad quisquam.[39m
+          
+          [32mSit quam eum praesentium voluptatem. Corporis sit magnam quis commodi aut. Qui aut aliquam et eos exercitationem omnis consequatur. Dolores rerum quis et. Fugiat culpa sunt vitae.[39m
+          
+          [32mRem dignissimos facere qui consectetur repellendus quae. Est facere totam exercitationem minima porro quasi. Et et rerum id. Soluta fuga autem omnis.[39m
+          
+          [32mCupiditate impedit earum consequatur ipsam a. In dicta omnis quis possimus placeat. Laborum numquam labore excepturi eos placeat aut id. Deleniti commodi officia labore quia.[39m
+          
+          [32mCulpa rerum odit debitis repudiandae quas aut dolore. Provident mollitia vitae ut fugiat. Perspiciatis omnis enim laudantium voluptatem illo facere ullam. Sed ducimus est alias dicta commodi autem ea.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00aaff?text=news+dolorum[39m[32m"[39m,
+        [34mviews[39m: [35m3055[39m,
+        [34mis_published[39m: [36mfalse[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-03-03 13:14:16[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m9[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7344
+        [34mtitle[39m: [32m"[39m[32mOdio dolores aut voluptatibus aspernatur asperiores ducimus quasi.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEarum corrupti nam et nulla ex. Sit corrupti perferendis repudiandae nobis optio incidunt. Sit aut iusto quo.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mVelit soluta facilis eveniet ut amet cumque. Laborum autem tempore dolores maxime eum magnam. Hic commodi architecto sapiente reiciendis sint quod. At aut aut hic ea.[39m
+          
+          [32mEligendi qui omnis autem consequatur aperiam quam assumenda. Et nihil maiores itaque placeat sequi laudantium quasi enim. Voluptatem optio laudantium voluptatum totam rerum omnis velit id. Temporibus aut vero voluptatem magnam.[39m
+          
+          [32mExercitationem magnam quos ea rerum sapiente molestiae. Dolorem velit placeat pariatur ullam quod repudiandae autem.[39m
+          
+          [32mEst quos ab sapiente exercitationem aut. Hic ut sint expedita reiciendis. Enim aliquam id veniam iure delectus ratione. Dolorem nemo fugit provident quia.[39m
+          
+          [32mDolorum voluptas quibusdam dolores esse. Rerum ut minus voluptates. Nihil et quis vel voluptas. Sunt et aperiam officia quasi atque commodi enim.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00ccff?text=news+quia[39m[32m"[39m,
+        [34mviews[39m: [35m9916[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-12-10 00:28:37[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m10[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7345
+        [34mtitle[39m: [32m"[39m[32mLaboriosam dolores nemo molestias repudiandae aliquam qui laudantium.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mQuis sed quaerat sed omnis eveniet. Facere explicabo provident reprehenderit aliquam eius autem.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mUt cumque perferendis alias aut. Ratione porro eos quia alias repellendus dolorem ea. Distinctio facilis beatae sit sunt autem sequi. Quibusdam molestiae est est reiciendis.[39m
+          
+          [32mDolorem praesentium illum praesentium doloribus reprehenderit magnam. Porro esse porro consequatur asperiores aut. Corrupti et eum nisi ratione deserunt id alias similique. Blanditiis eos voluptas distinctio iusto fugiat quidem perferendis.[39m
+          
+          [32mIste deleniti harum dignissimos quos impedit eaque similique hic. Maxime accusamus atque placeat ut nisi. Magnam quia rerum occaecati vel fuga est.[39m
+          
+          [32mPorro et reiciendis reiciendis ea. Earum doloribus eum sed voluptatem deleniti quis. Officia dolor dignissimos labore enim molestiae.[39m
+          
+          [32mMolestiae provident aperiam vel ut ex. Facilis explicabo voluptas dignissimos enim.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0088ee?text=news+aspernatur[39m[32m"[39m,
+        [34mviews[39m: [35m8500[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-06-15 18:11:33[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m11[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7346
+        [34mtitle[39m: [32m"[39m[32mAutem accusantium mollitia adipisci dolorem architecto nihil.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mSint velit omnis deserunt unde consequatur sunt quis ab. Doloremque similique quibusdam aut facere voluptatem numquam.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mIllum ducimus aut debitis voluptate rem nulla at consequatur. Veritatis dolorem aliquid ut omnis iste. Debitis ut nisi aut omnis perferendis omnis voluptas numquam. Impedit mollitia quisquam nisi optio sed corporis. Dignissimos aspernatur quis vitae vel aspernatur.[39m
+          
+          [32mPorro occaecati reiciendis doloremque sunt error suscipit. Expedita voluptas accusamus voluptatem eos perspiciatis at tempore. Nobis nam harum autem molestiae accusamus nisi veniam unde. Blanditiis illum eius nisi culpa eos quisquam. Incidunt veniam ab delectus sint.[39m
+          
+          [32mEt est quisquam quia rerum nihil sed quis. Error suscipit in possimus expedita qui consequatur explicabo. Blanditiis dolores quae sit sit.[39m
+          
+          [32mUt nihil consectetur ex est fugit quam perferendis. Autem et modi architecto eos perferendis voluptatem delectus vel. Molestiae omnis aliquid qui occaecati dolores. Esse qui reprehenderit sint eveniet perferendis.[39m
+          
+          [32mVeritatis dicta molestiae dolores tempora amet omnis tempora. Voluptates vel ut doloremque libero. Quisquam sed aut nulla at dolorem voluptas repellendus sint. Eligendi dolor quae quam. Quis consequatur ex eligendi eveniet consequatur accusantium alias.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0066aa?text=news+doloremque[39m[32m"[39m,
+        [34mviews[39m: [35m9343[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-01-29 05:40:47[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m12[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7347
+        [34mtitle[39m: [32m"[39m[32mTemporibus similique quae modi ut provident odit culpa.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mCupiditate harum tempore ipsam accusamus. Maxime dolorem sit explicabo non cum. A sed consequatur non in.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mVoluptatum quis tenetur fuga illum. Blanditiis maxime voluptatem aut. Perspiciatis dicta saepe autem. Veritatis omnis et asperiores omnis quia quis. Suscipit voluptatem voluptas eos exercitationem unde.[39m
+          
+          [32mSed id placeat dolore laborum et hic aut. Quod voluptas illo illum saepe. Voluptas dicta at ullam illo in. Dicta mollitia veniam eum. Et at facere non quia accusamus.[39m
+          
+          [32mEaque natus perferendis quo ut sit qui quidem. Est consectetur at rerum voluptas sequi saepe est. Tempora asperiores quaerat quo incidunt. Ea dolor iusto voluptas perspiciatis voluptas tempore debitis.[39m
+          
+          [32mConsequatur ea qui error. Voluptas illo repellat unde quis quod. Aspernatur rerum ea ad consequatur ducimus.[39m
+          
+          [32mQui magnam sequi libero omnis. Neque maxime dolorum sequi sed velit ut. Ratione dolores esse sequi quae sequi architecto.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0000ee?text=news+et[39m[32m"[39m,
+        [34mviews[39m: [35m583[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-05-02 09:09:21[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m13[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7348
+        [34mtitle[39m: [32m"[39m[32mConsequatur est consequatur perferendis eligendi itaque aut incidunt.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mAccusamus ea voluptatem deserunt voluptatum vel. Sed consequatur qui reprehenderit sit quidem quia sit. Libero possimus vel cupiditate occaecati est aut quidem.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mEt laudantium consequatur repellat blanditiis quam ab. Adipisci fugit eligendi soluta optio et. Consequatur et ab dolorum excepturi nobis atque vero. Aut sunt cumque modi aut. Dolore vel ipsam non eum repudiandae adipisci.[39m
+          
+          [32mDignissimos iure corporis possimus labore sit sit et porro. Consequatur sed in eum consequatur suscipit. Tenetur et et sint sequi ullam fugiat omnis.[39m
+          
+          [32mAccusantium eveniet veniam nostrum quos. Distinctio sed quaerat velit error aut rerum aut. Optio illum nesciunt sint nisi.[39m
+          
+          [32mQuod beatae beatae et ea natus. Accusamus similique fuga aut repudiandae in. Assumenda qui sunt odit repellat qui pariatur veniam.[39m
+          
+          [32mQuo saepe minus a officiis repudiandae ratione sed. Modi aut eveniet error ratione hic distinctio. Facere explicabo et eos deleniti modi quia et.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0088dd?text=news+quia[39m[32m"[39m,
+        [34mviews[39m: [35m6844[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-12-10 18:24:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m14[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7349
+        [34mtitle[39m: [32m"[39m[32mQui et quos fuga est fuga officiis quidem.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEa et ratione quae doloremque dicta. Quis quae repellendus et iure. Itaque sint repellat qui voluptas quia esse nesciunt.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mSed in expedita tenetur odit molestiae non. Impedit eum eos in magni doloremque aliquam sed. Eos cum dolores perferendis qui tempore nam. Sit quia alias incidunt vel in dolorem.[39m
+          
+          [32mNostrum ratione accusamus distinctio perferendis maxime fugit enim quia. Perferendis modi esse enim optio harum non. Tempore rerum et est eum quibusdam odit.[39m
+          
+          [32mEt minima commodi consectetur animi sed qui dolorem id. Ea maiores fuga tempore omnis. Deserunt quis maiores suscipit et ipsam aut.[39m
+          
+          [32mSapiente magni ut consectetur et deserunt quidem. Maxime ut et quia blanditiis. Veniam omnis aliquid ullam officia autem et consequatur.[39m
+          
+          [32mAnimi aspernatur totam natus aut nihil sapiente rerum perspiciatis. Neque eius mollitia voluptatem ut.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00aa66?text=news+amet[39m[32m"[39m,
+        [34mviews[39m: [35m8970[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-08-08 21:48:47[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m15[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7350
+        [34mtitle[39m: [32m"[39m[32mOdio temporibus exercitationem aut sapiente laudantium.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mHic quia sit error magnam debitis. Laudantium est et non asperiores deleniti. Nisi qui soluta sequi id possimus.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mTempore inventore deleniti perferendis earum nesciunt accusantium totam libero. Aut id consequatur laudantium quasi eligendi quae id. Ut cumque non architecto voluptatem nobis dolores sed. Ratione dolorem nihil debitis vero asperiores ea.[39m
+          
+          [32mTempora ea delectus et sed illo quas qui id. Ut exercitationem at ullam. In vel nisi voluptates cumque qui laboriosam voluptatem.[39m
+          
+          [32mEa ipsum cum illo et voluptatem. Pariatur ut distinctio et. Similique totam provident qui assumenda numquam.[39m
+          
+          [32mAut nobis in iste voluptas asperiores. Eligendi laudantium rerum assumenda aut dolores est. Vel et voluptas perspiciatis sint inventore itaque enim. Ratione enim saepe tenetur.[39m
+          
+          [32mEt qui dolorum id id autem iste. Harum culpa quaerat quia adipisci. Excepturi aut commodi rerum quae illum incidunt iusto.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0077dd?text=news+praesentium[39m[32m"[39m,
+        [34mviews[39m: [35m8889[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-09-22 21:53:31[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m16[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7351
+        [34mtitle[39m: [32m"[39m[32mIncidunt adipisci delectus temporibus.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEt consequatur perspiciatis et cumque. Debitis tempore esse qui nemo est. Beatae expedita voluptate quo rerum delectus consequatur esse.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mCulpa qui perferendis nam voluptas. Exercitationem nulla itaque modi perferendis mollitia voluptatem. Quae hic autem ducimus maiores laborum inventore. Dicta dolorum possimus temporibus.[39m
+          
+          [32mEt ullam dolor et officia. Aperiam quis ut laborum beatae et qui. Corrupti et aliquid maiores dolorem officiis. Et molestiae odit error deserunt perferendis quia.[39m
+          
+          [32mMollitia esse omnis blanditiis quam aliquam minus ratione molestias. Voluptatum quisquam expedita minima quisquam soluta libero provident. Nulla culpa dolores voluptas qui eos in corrupti accusamus.[39m
+          
+          [32mPariatur sint quas sapiente sunt a exercitationem. Temporibus et quae rerum temporibus. Qui perferendis dolore facere. Officia praesentium velit occaecati voluptatem.[39m
+          
+          [32mQuae fuga qui praesentium omnis architecto quae corrupti. Ut est rem quia consequatur qui. Ut aut voluptatum tenetur magnam tempora totam deleniti qui. Illum exercitationem ut in sed et ullam tenetur maxime.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00dd00?text=news+blanditiis[39m[32m"[39m,
+        [34mviews[39m: [35m2835[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-12-06 23:42:56[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m17[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7352
+        [34mtitle[39m: [32m"[39m[32mIllum quis quam voluptatem nobis voluptas.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mModi inventore pariatur temporibus sint. Provident repudiandae voluptatem dolorem error.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mEveniet eius cum suscipit magni consectetur cupiditate velit. Praesentium perferendis consequatur neque deserunt cupiditate. Numquam et debitis ab dolores nisi. Consequuntur aut aut mollitia est laudantium praesentium.[39m
+          
+          [32mVel et qui occaecati et culpa sed ex. Minus sed accusantium quia dignissimos ea. Aut praesentium incidunt quisquam ut inventore omnis unde cum.[39m
+          
+          [32mTotam id natus fuga nihil autem. Labore dolore aperiam rerum enim. Iure adipisci saepe laboriosam adipisci.[39m
+          
+          [32mAut dicta sit nesciunt voluptas deserunt. Atque est ut qui. Assumenda et eius quo velit delectus.[39m
+          
+          [32mId eaque consequatur nihil molestiae vero ipsam veritatis. Quisquam enim ipsa aliquid natus beatae fuga qui.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/00bb55?text=news+maxime[39m[32m"[39m,
+        [34mviews[39m: [35m8250[39m,
+        [34mis_published[39m: [36mfalse[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-05-30 00:55:37[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m18[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7353
+        [34mtitle[39m: [32m"[39m[32mAliquam distinctio praesentium explicabo accusamus aut incidunt id.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mEum nihil nam vel aliquam. Dolor et officiis repudiandae aut quia voluptas qui. Voluptatibus autem quas consequatur eveniet maxime.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mItaque ducimus quia assumenda et aut. Voluptatem id et voluptatibus doloribus est labore vero ea. Culpa eum molestiae aut. Magni est optio perferendis vero sit earum.[39m
+          
+          [32mVoluptas voluptate et fugiat inventore illo aut. Et magnam quae nobis. Aut eos minima est eos non.[39m
+          
+          [32mRepellendus officiis soluta molestiae debitis. Et aut similique harum. Dignissimos facilis aut et.[39m
+          
+          [32mSaepe architecto itaque ab reiciendis blanditiis aliquam. Corrupti iste vel quaerat harum quis non. In dolorem sint amet dolorum quas est qui.[39m
+          
+          [32mEveniet quo voluptatem vel molestias est voluptatibus magnam nulla. Dolore qui dignissimos et quasi id incidunt. Dolore enim placeat incidunt ut. Molestiae voluptas ratione eius sint. Temporibus dolorem repellendus est.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0044aa?text=news+veritatis[39m[32m"[39m,
+        [34mviews[39m: [35m5362[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-07-09 03:37:45[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m19[39m,
+      },
+      [34;4mApp\Models\Article[39;24m {#7354
+        [34mtitle[39m: [32m"[39m[32mNam voluptatem consequatur modi exercitationem culpa qui rerum architecto.[39m[32m"[39m,
+        [34mshort_description[39m: [32m"[39m[32mMolestiae et reprehenderit et eum. Hic voluptas in corrupti veritatis. Iusto fugiat voluptatem cum.[39m[32m"[39m,
+        [34mcontent[39m: <<<[32mEOS[39m
+          [32mQuia et doloremque eligendi quis. Modi labore aut optio facere reprehenderit.[39m
+          
+          [32mNihil nobis quod sint enim ducimus ipsam omnis. Dolorem et illum pariatur et dolorem incidunt. Quis laboriosam odio ut soluta et.[39m
+          
+          [32mUt minima velit fugiat. Animi qui eum ratione a expedita qui error. Placeat voluptatum aut dolores officia veniam qui. Adipisci voluptatum rerum modi perspiciatis voluptas corrupti commodi.[39m
+          
+          [32mVelit error id nobis ipsum vel soluta. Enim velit autem ipsa nisi ut. Eos laboriosam autem et iure.[39m
+          
+          [32mNulla qui voluptas ad dolor praesentium rerum voluptates. Rerum cumque repellat praesentium mollitia aut. Aspernatur est quia ut rerum et et.[39m
+          [32mEOS[39m,
+        [34mimage[39m: [32m"[39m[32mhttps://via.placeholder.com/640x480.png/0000aa?text=news+sapiente[39m[32m"[39m,
+        [34mviews[39m: [35m2561[39m,
+        [34mis_published[39m: [36mtrue[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2025-11-08 10:43:34[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-08 21:51:43[39m[32m"[39m,
+        [34mid[39m: [35m20[39m,
+      },
+    ],
+  }
