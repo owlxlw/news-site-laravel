@@ -32,6 +32,7 @@
             display: flex;
             list-style: none;
             gap: 2rem;
+            flex-wrap: wrap;
         }
         nav a {
             color: white;
@@ -73,6 +74,7 @@
                     <li><a href="{{ route('home') }}">Главная</a></li>
                     <li><a href="{{ route('about') }}">О нас</a></li>
                     <li><a href="{{ route('contacts') }}">Контакты</a></li>
+                    <li><a href="{{ route('signin') }}">Регистрация</a></li>
                 </ul>
             </nav>
         </div>
@@ -86,7 +88,7 @@
 
     <footer>
         <div class="container">
-            <p>Маликова Диана Викторовна | Группа: 243-321</p>
+            <p>Иванов Иван Иванович | Группа: 221-321</p>
             <p>© {{ date('Y') }} Новостной сайт</p>
         </div>
     </footer>
