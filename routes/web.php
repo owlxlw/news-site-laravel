@@ -13,3 +13,12 @@ Route::get('/gallery/{imageName}', [MainController::class, 'gallery'])->name('ga
 // Задание 3: Регистрация пользователей
 Route::get('/signin', [AuthController::class, 'create'])->name('signin');
 Route::post('/signin', [AuthController::class, 'registration'])->name('signin.post');
+
+// Задание 4: Новости
+use App\Http\Controllers\ArticleController;
+
+Route::get('/news', [ArticleController::class, 'index'])->name('articles.index');
+Route::get('/news/{id}', [ArticleController::class, 'show'])->name('articles.show');
+
+// Перенаправление с главной на список новостей
+Route::redirect('/', '/news');
