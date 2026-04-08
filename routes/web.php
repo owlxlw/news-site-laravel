@@ -9,7 +9,7 @@ use App\Http\Controllers\ArticleController;
 // Главная страница
 Route::get('/', [ArticleController::class, 'index'])->name('home');
 
-// Страницы О нас и Контакты (доступны всем)
+// Страницы О нас и Контакты
 Route::get('/about', [PageController::class, 'about'])->name('about');
 Route::get('/contacts', [PageController::class, 'contacts'])->name('contacts');
 
@@ -17,7 +17,6 @@ Route::get('/contacts', [PageController::class, 'contacts'])->name('contacts');
 Route::get('/gallery/{imageName}', [MainController::class, 'gallery'])->name('gallery');
 
 // ========== Аутентификация (Задание 6) ==========
-// Гостевые маршруты (только для неавторизованных)
 Route::middleware('guest')->group(function () {
     Route::get('/register', [AuthController::class, 'showRegisterForm'])->name('register');
     Route::post('/register', [AuthController::class, 'register']);
@@ -25,20 +24,17 @@ Route::middleware('guest')->group(function () {
     Route::post('/login', [AuthController::class, 'login']);
 });
 
-// Выход (доступен авторизованным)
 Route::post('/logout', [AuthController::class, 'logout'])->name('logout')->middleware('auth');
 
-// ========== CRUD для новостей (с защитой) ==========
-// Доступны всем (чтение)
+// ========== Новости (чтение - всем) ==========
 Route::get('/news', [ArticleController::class, 'index'])->name('articles.index');
 Route::get('/news/{id}', [ArticleController::class, 'show'])->name('articles.show');
 
-// Требуют авторизации (создание, редактирование, удаление)
-Route::middleware('auth')->group(function () {
-    Route::get('/news/create', [ArticleController::class, 'create'])->name('articles.create');
-    Route::post('/news', [ArticleController::class, 'store'])->name('articles.store');
-    Route::get('/news/{id}/edit', [ArticleController::class, 'edit'])->name('articles.edit');
-    Route::put('/news/{id}', [ArticleController::class, 'update'])->name('articles.update');
-    Route::delete('/news/{id}', [ArticleController::class, 'destroy'])->name('articles.destroy');
-});
-Route::get('/news/create', [ArticleController::class, 'create'])->name('articles.create')->middleware('auth');
+// ========== Создание новости (только модератор) ==========
+Route::get('/add-news', [ArticleController::class, 'create'])->name('articles.create')->middleware('auth');
+Route::post('/news', [ArticleController::class, 'store'])->name('articles.store')->middleware('auth');
+
+// ========== Редактирование и удаление (только модератор) ==========
+Route::get('/news/{id}/edit', [ArticleController::class, 'edit'])->name('articles.edit')->middleware('auth');
+Route::put('/news/{id}', [ArticleController::class, 'update'])->name('articles.update')->middleware('auth');
+Route::delete('/news/{id}', [ArticleController::class, 'destroy'])->name('articles.destroy')->middleware('auth');
