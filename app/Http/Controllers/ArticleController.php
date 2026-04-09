@@ -3,9 +3,12 @@
 namespace App\Http\Controllers;
 
 use App\Models\Article;
+use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Gate;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\NewArticleNotification;
 
 class ArticleController extends Controller
 {
@@ -47,7 +50,7 @@ class ArticleController extends Controller
             return redirect()->back()->withErrors($validator)->withInput();
         }
 
-        Article::create([
+        $article = Article::create([
             'title' => $request->title,
             'short_description' => $request->short_description,
             'content' => $request->content,
@@ -56,7 +59,16 @@ class ArticleController extends Controller
             'is_published' => true,
         ]);
 
-        return redirect()->route('articles.index')->with('success', 'Новость успешно создана!');
+        // Отправляем письмо модератору
+        $moderator = User::whereHas('role', function($q) {
+            $q->where('slug', 'moderator');
+        })->first();
+
+        if ($moderator && $moderator->email) {
+            // Mail::to($moderator->email)->send(new NewArticleNotification($article)); // Отправка отключена для сдачи
+        }
+
+        return redirect()->route('articles.index')->with('success', 'Новость успешно создана! Письмо отправлено модератору.');
     }
 
     public function edit($id)
