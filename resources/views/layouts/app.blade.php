@@ -29,6 +29,7 @@
                     
                     @auth
                         @can('moderator')
+                            <li><a href="{{ route('comments.pending') }}">Модерация комментариев</a></li>
                             <li><a href="{{ route('articles.create') }}">Создать новость</a></li>
                         @endcan
                         <li style="margin-left: auto;">

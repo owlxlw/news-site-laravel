@@ -38,3 +38,16 @@ Route::post('/news', [ArticleController::class, 'store'])->name('articles.store'
 Route::get('/news/{id}/edit', [ArticleController::class, 'edit'])->name('articles.edit')->middleware('auth');
 Route::put('/news/{id}', [ArticleController::class, 'update'])->name('articles.update')->middleware('auth');
 Route::delete('/news/{id}', [ArticleController::class, 'destroy'])->name('articles.destroy')->middleware('auth');
+
+// ========== Задание 9: Комментарии ==========
+use App\Http\Controllers\CommentController;
+
+// Создание комментария
+Route::post('/articles/{articleId}/comments', [CommentController::class, 'store'])->name('comments.store')->middleware('auth');
+
+// Модерация комментариев (только для модератора)
+Route::middleware(['auth'])->group(function () {
+    Route::get('/comments/pending', [CommentController::class, 'pendingModeration'])->name('comments.pending');
+    Route::put('/comments/{id}/approve', [CommentController::class, 'approve'])->name('comments.approve');
+    Route::put('/comments/{id}/reject', [CommentController::class, 'reject'])->name('comments.reject');
+});
