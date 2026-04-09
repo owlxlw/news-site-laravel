@@ -4,11 +4,10 @@ namespace App\Http\Controllers;
 
 use App\Models\Article;
 use App\Models\User;
+use App\Jobs\VeryLongJob;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Gate;
-use Illuminate\Support\Facades\Mail;
-use App\Mail\NewArticleNotification;
 
 class ArticleController extends Controller
 {
@@ -59,16 +58,10 @@ class ArticleController extends Controller
             'is_published' => true,
         ]);
 
-        // Отправляем письмо модератору
-        $moderator = User::whereHas('role', function($q) {
-            $q->where('slug', 'moderator');
-        })->first();
+        // Отправляем задание в очередь (вместо прямой отправки письма)
+        VeryLongJob::dispatch($article);
 
-        if ($moderator && $moderator->email) {
-            // Mail::to($moderator->email)->send(new NewArticleNotification($article)); // Отправка отключена для сдачи
-        }
-
-        return redirect()->route('articles.index')->with('success', 'Новость успешно создана! Письмо отправлено модератору.');
+        return redirect()->route('articles.index')->with('success', 'Новость успешно создана! Задание на отправку письма добавлено в очередь.');
     }
 
     public function edit($id)
